@@ -1,0 +1,32 @@
+.banner{
+    background-image: url('./images/banner.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+    width: auto;
+    margin:4%;
+    text-align: center;
+}
+.title {
+    font-size: 70px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 62%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    white-space: nowrap;
+    border: 3px solid white;
+    padding: 70px 50px;
+  }
+  .bttn{
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    font-weight: 600;
+    font-size: 10px;
+    letter-spacing: 1.3px;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 16px 20px;
+  }
+  
